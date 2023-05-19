@@ -1,0 +1,30 @@
+[
+  {
+    "id" : "1",
+    "name" : "Event Music",
+    "image" : "Music",
+    "latitude" : 22.76458,
+    "longitude" : 75.80969
+  },
+  {
+    "id" : "2",
+    "name" : "Event Food",
+    "image" : "Food",
+    "latitude" : 22.76643,
+    "longitude" : 75.81286
+  },
+  {
+    "id" : "3",
+    "name" : "Event Sports",
+    "image" : "Sports",
+    "latitude" : 22.76261,
+    "longitude" : 75.80977
+  },
+  {
+    "id" : "4",
+    "name" : "Event 4",
+    "image" : "Art",
+    "latitude" : 22.76477,
+    "longitude" : 75.81413
+  }
+]
